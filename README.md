@@ -1,2 +1,3 @@
 # rittrail.github.io
-iam
+iam developing for college purpose
+jyjhytt
